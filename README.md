@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BHAAA-ZLM
 - 👀 I’m interested in the connection between computer science and biology.
-- 🌱 I’m currently learning a lot of biology and starting to scratch a bit of java.
+- 🌱 I’m currently learning a lot of biology and a little amount of Computer Science.
 - 💞️ I’m looking to collaborate on biology, computer science and games.
 - 📫 My email is 12112618@mail.sustech.edu.cn
 
